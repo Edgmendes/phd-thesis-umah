@@ -12,6 +12,7 @@ to create a visualization of the stimuli. The Stimuli_Simulator was coded in Pyt
 Notes:
 
  - Matlab version R2024b;
+	- installed Add-Ons: Audio Toolbox; DSP system toolbox; Signal processing toolbox; Statistics and Machine learning toolbox; Symbolic Math toolbox;
 
  - As for the Python, Anaconda package manager was used for the creation of the virtual enviroment.
 The virtual enviroment can be found in Stimuli_Simulator/anaconda_virtual_env;
