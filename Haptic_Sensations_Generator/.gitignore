@@ -1,0 +1,16 @@
+# MATLAB autosave
+*.asv
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# MATLAB cache/build files
+*.slxc
+*.mex*
+*.p
+
+# Generated data
+*.bin
