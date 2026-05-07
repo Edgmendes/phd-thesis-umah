@@ -1,0 +1,1 @@
+t_samples - 100000; Nsource - 4; Lsource - 0.16; Z_plane - 0.2; F_carrier - 40000; speed_sound - 343; Tdraw - 1; dt - 1e-05; Smoothness duration - 0.00000; Stimulus - pressure_smooth; Amax_FP - 0.24; nFPs - 1; Word Bits - 16
