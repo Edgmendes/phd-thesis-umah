@@ -25,7 +25,7 @@ l_source = 0.16;   % [m]
 smooth_duration = 0;    %[s]
 
 %%
-addpath('C:\Users\Eduardo_Mendes\OneDrive - UM\OneDrive - Universidade do Minho\PhD\Matlab\Acoustics\Framework\3D-Final\v7_git\Haptic_Sensations_Generator\Algorithm\Impulse_Mat_Shapes')
+addpath('C:\Users\Eduardo_Mendes\OneDrive - UM\OneDrive - Universidade do Minho\PhD\Anexos-Tese-Git\Haptic_Sensations_Generator\Algorithm\Impulse_Mat_Shapes')
 
 DIR_NAME = 'auxiliary_files\';
 OUT_DIR_NAME = "output_files\";
