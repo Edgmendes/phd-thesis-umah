@@ -46,8 +46,8 @@ xlabel('Intensity Setting (%)')
 ylabel('Radiation Force (mN)')
 grid on;
 
-legend1 = "New Setup - Balance; UM; Distance - 195 mm; Target diameter 15 mm";
-legend2 = "Old Setup - Balance; UM; Distance - 195 mm; Target diameter 20 mm";
+legend1 = "New Setup - Balance; UM; Distance - 200 mm; Target diameter 15 mm";
+legend2 = "Old Setup - Balance; UM; Distance - 200 mm; Target diameter 20 mm";
 
 legend(legend1,legend2);
 

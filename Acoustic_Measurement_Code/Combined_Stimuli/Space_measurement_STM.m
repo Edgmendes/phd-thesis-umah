@@ -131,16 +131,17 @@ while( (bitget(abs(XBits),5)||bitget(abs(XBits),6)) || ...
     YBits = hY.GetStatusBits_Bits(0);
 end 
 
+% Communication with the Haptic System
 %Set the FP pos
 writeline(device,"1");
 writeline(device,"0.085"); % xx
 writeline(device,"0.085"); % yy
-writeline(device,"0.19");
+writeline(device,"0.20");  % zz
 
-%Set the Dynamic stimuli
+%Set the Dynamic Sensation
 writeline(device,"n");
-writeline(device,"30");		%SR
-writeline(device,"3");		%Fmod
+writeline(device,"30");		% Number Sample Points
+writeline(device,"3");		% F_drawing
 
 %Set the Dut cycle
 writeline(device,"3");

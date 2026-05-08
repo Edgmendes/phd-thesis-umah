@@ -1,4 +1,6 @@
 close all; clear all; clc;
+%% This script plots the acoustic field of the measured data.
+
 
 %% Configs
 filename = './F1HzSR10_Fs500000Hz_T3s_Center130mm_Off10mm_Step5mmDC12.bin';

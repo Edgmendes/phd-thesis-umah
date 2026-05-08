@@ -67,6 +67,7 @@ hX.SetJogStepSize(0,Stepmm);
 hY.SetJogMode(0,2,2);
 hY.SetJogStepSize(0,Stepmm);
 
+% Communication with the haptic device
 %Set the FP pos
 writeline(device,"1");
 writeline(device,"0.085"); % xx

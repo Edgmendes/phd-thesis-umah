@@ -20,14 +20,15 @@ Notes:
  - The Algo_script in /Algorithm requires a path to be renamed correctly to avoid compiling errors.
 
 
+## Project Structure
 
-/Haptic_Tool
-  /Haptic_Sensations_Generator
-    /Dynamic_Specification
-    /Algorithm
-  /Haptic_Stimuli_Generator
-	/Algorithm
-  /Stimuli_Simulator
+├── Haptic_Tool/
+│   ├── Haptic_Sensations_Generator/
+│   │	├── Dynamic_Specification/
+│   │	└── Algorithm/
+│   ├── Haptic_Stimuli_Generator/
+│   │	└── Algorithm/
+│   └──  Stimuli_Simulator
   
   
 

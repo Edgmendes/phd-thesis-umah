@@ -32,7 +32,7 @@ xlabel('Intensity Setting (%)')
 ylabel('Radiation Force (mN)')
 grid on;
 
-legend1 = "Distance - 195 mm; Target diameter 15 mm";
+legend1 = "Distance - 200 mm; Target diameter 15 mm";
 
 legend(legend1);
 

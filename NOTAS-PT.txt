@@ -2,6 +2,12 @@ Anexos PhD
 
 Terás que ir á UM em Guimarães e levar o disco rígido para teres tudo no teu disco.
 
+NOTA: Neste momento quero que te foques no que tens já feito. Ou seja, vais continuar a tratar dos anexos, no que já tens.
+Que é o Essencial.. a Ferramenta, Os estudos perceptuais, As medições acústicas, O simulador, O projeto Vivado.
+Ya é isso. 
+Vais colocar também a burocracia dos estudos.
+
+
 --
 
 Vivado 
@@ -43,4 +49,11 @@ Documentos USER STUDIES e burocrácia relativamente aos testes subjectivos reali
 --
 
 Código Matlab e Data para processamento dos USER Studies
+
+	1º Sensation Specification Results
+	2º Combined sensation Results
+	
+	- As várias aplicações desenvolvidas em QT, para o primeiro, segundo estudos e para os Beats.
+	
+--
 

@@ -21,16 +21,10 @@ for k = 1 : 2
     if(k==1)
         dir_2 = "LOW";
         speed_thresholds = zeros(total_participants,3);
-%         speed_min = zeros(total_participants,3);
-%         speed_max = zeros(total_participants,3);
         congruency_flag = zeros(number_of_participants_time,3);
     elseif(k==2)
         dir_2 = "HIGH";
-%         total_participants = 12;            
-%         number_of_participants_time = 7;
         speed_thresholds = zeros(total_participants,3);
-%         speed_min = zeros(total_participants,3);
-%         speed_max = zeros(total_participants,3);
         congruency_flag = zeros(number_of_participants_time,3);
     end
     

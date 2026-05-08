@@ -11,17 +11,17 @@ dc = 12;
 dc_val = int2str(dc);
 
 %ADC main params
-SampleRate = 500e3; % tem de ser igual ao clock do adc - addClockConnection()
+SampleRate = 500e3; % must be equal to adc's clock - addClockConnection()
 Duration = 1; %seconds
 
 %Stages main params
-Stepmm = 2.5;    %mm
+Stepmm = 2.5;    %mm , spatial step
 
 %high resolution area
 center = 115; %mm
 offset_center = 45; %mm
 
-%Parameters to avoid system overheating
+%Parameters to avoid haptic system to much overheating
 MinutesON = 30;
 MinutesOFF = 1;
 
@@ -155,7 +155,7 @@ for i = 1:numel(fmods)
 	writeline(device,"0.085"); % yy
 	writeline(device,"0.20");
 
-	%Set the Dynamic stimuli
+	%Communaction with the Haptic System. Configure the Dynamic sensation
 	writeline(device,"n");
 	writeline(device,SRs(i));		%SR
 	writeline(device,fmods(i));		%Fmod

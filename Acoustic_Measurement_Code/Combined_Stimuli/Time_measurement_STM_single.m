@@ -134,12 +134,12 @@ end
 writeline(device,"1");
 writeline(device,"0.085");
 writeline(device,"0.085");
-writeline(device,"0.19");
+writeline(device,"0.20");
 
 %Set the Dynamic stimuli
 writeline(device,"n");
-writeline(device,"50");		%SR
-writeline(device,"50");		%Fmod
+writeline(device,"50");		% Number Sample Points
+writeline(device,"50");		% F_drawing
 
 %Set the Dut cycle
 writeline(device,"3");
