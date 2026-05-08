@@ -1,0 +1,46 @@
+Anexos PhD
+
+Terás que ir á UM em Guimarães e levar o disco rígido para teres tudo no teu disco.
+
+--
+
+Vivado 
+
+
+Relativamente ao projeto do vivado, eu em Março fui lá e compilei o projeto na 
+minha maquina. Sintetizei, Implementei, e Programei o sistema que inclusive estava a funcionar.
+
+Por isso, o melhor será mesmo disponibilizar esse mesmo projeto no git. Especificar a versão do vivado,
+as licensas, a board para o qual ele foi desenvolvido, disponibilizar os board files, constraint files, 
+license files. Exato, restringir os ficheiros do projeto aos minimo possível. Nota, existirá também a necessidade 
+em disponibilizar os IPs desenvolvidos. Etc.
+
+--
+
+Código Equipamento/ Medição
+
+
+	- Código medição PF
+	- Código medição do campo acústico Estímulos Combinados
+	- Código medição de força radiação através da balança
+
+Tenho código para medição do campo acustico (acoustic scaning). Este código trata de fazer o contorlo das stages.
+Da aquisição do sinal analógico. E armazenamento do sinal binário.
+
+Tenho também um outro código mais simples para a realização das medições com a Balança.
+
+--
+
+Documentos USER STUDIES e burocrácia relativamente aos testes subjectivos realizados.
+
+
+	- Laboratório IBS
+	
+	- Bom, são os documentos com as assinaturas dos participantes.
+	- Parecer do gabinete de Ética Aprovação
+	- Talvez o protocolo
+
+--
+
+Código Matlab e Data para processamento dos USER Studies
+
