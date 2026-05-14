@@ -22,6 +22,8 @@ Notes:
 
 ## Project Structure
 
+```text
+project/
 ├── Haptic_Tool/
 │   ├── Haptic_Sensations_Generator/
 │   │	├── Dynamic_Specification/

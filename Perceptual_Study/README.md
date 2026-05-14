@@ -9,7 +9,8 @@ Python.
 
 
 ## Structure
-
+```text
+project/
 ├── Perceptual_Study/
 │   ├── Sensation_Specification_Results
 │   │   ├── Algorithm 
