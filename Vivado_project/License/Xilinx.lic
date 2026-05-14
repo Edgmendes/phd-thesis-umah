@@ -1,0 +1,27 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Tue Oct 16 14:34:30 UTC 2018.
+#
+# This is license NODELOCKED to HOSTID=704D7B37E6A5;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Tue Oct 16 14:34:30 UTC 2018
+INCREMENT ZYNQ7000_ZC706_EMBD xilinxd 2018.07 permanent uncounted \
+B28A634CCE94 \
+VENDOR_STRING=jmc007,ZYNQ7000_ZC706_EMBD,software,permanent,_178060485_1777496732_210660895_142 \
+HOSTID=704d7b37e6a5 ISSUER="Xilinx Inc" START=16-Oct-2018 \
+TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ZYNQ7000_ZC706_EMBD xilinxd 2018.07 173F53FB730D \
+COMPONENTS="SDK ChipScopePro_SIOTK ChipscopePro ISIM PlanAhead \
+WebPACK XPS PartialReconfiguration Simulation Analyzer \
+XC7Z045" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1771715000001fs"></ZoomEndTime>
+      <Cursor1Time time="701551577000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="239"></NameColumnWidth>
+      <ValueColumnWidth column_width="200"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/clk_ref" type="logic">
+      <obj_property name="ElementShortName">clk_ref</obj_property>
+      <obj_property name="ObjectShortName">clk_ref</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/duty_cycle_in" type="array">
+      <obj_property name="ElementShortName">duty_cycle_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">duty_cycle_in[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/duty_cycle" type="array">
+      <obj_property name="ElementShortName">duty_cycle[31:0]</obj_property>
+      <obj_property name="ObjectShortName">duty_cycle[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/counter" type="array">
+      <obj_property name="ElementShortName">counter[31:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/cycle" type="array">
+      <obj_property name="ElementShortName">cycle[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cycle[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/count_max" type="array">
+      <obj_property name="ElementShortName">count_max[31:0]</obj_property>
+      <obj_property name="ObjectShortName">count_max[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/CLK_FPGA" type="array">
+      <obj_property name="ElementShortName">CLK_FPGA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CLK_FPGA[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/CLK_MOD" type="array">
+      <obj_property name="ElementShortName">CLK_MOD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CLK_MOD[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/BITS_WIDTH" type="array">
+      <obj_property name="ElementShortName">BITS_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BITS_WIDTH[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/dc_variator_/out_signal" type="logic">
+      <obj_property name="ElementShortName">out_signal</obj_property>
+      <obj_property name="ObjectShortName">out_signal</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/slv_reg0" type="array">
+      <obj_property name="ElementShortName">slv_reg0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/S_AXI_WDATA" type="array">
+      <obj_property name="ElementShortName">S_AXI_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_WDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/axi_awready" type="logic">
+      <obj_property name="ElementShortName">axi_awready</obj_property>
+      <obj_property name="ObjectShortName">axi_awready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/axi_wready" type="logic">
+      <obj_property name="ElementShortName">axi_wready</obj_property>
+      <obj_property name="ObjectShortName">axi_wready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/S_AXI_AWVALID" type="logic">
+      <obj_property name="ElementShortName">S_AXI_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_AWVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/S_AXI_WVALID" type="logic">
+      <obj_property name="ElementShortName">S_AXI_WVALID</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_WVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/DC_Variator_IP_Core_v1_0_S00_AXI_inst/slv_reg_wren" type="logic">
+      <obj_property name="ElementShortName">slv_reg_wren</obj_property>
+      <obj_property name="ObjectShortName">slv_reg_wren</obj_property>
+   </wvobject>
+</wave_config>

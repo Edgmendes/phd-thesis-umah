@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="axi_bram_ctrl_funcs" />
+            <top_module name="glbl" />
+            <top_module name="tb" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="2624785495fs"></ZoomStartTime>
+      <ZoomEndTime time="4049335370fs"></ZoomEndTime>
+      <Cursor1Time time="3800000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="205"></NameColumnWidth>
+      <ValueColumnWidth column_width="229"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/tb/s_axi_aclk" type="logic">
+      <obj_property name="ElementShortName">s_axi_aclk</obj_property>
+      <obj_property name="ObjectShortName">s_axi_aclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/s_axi_aresetn" type="logic">
+      <obj_property name="ElementShortName">s_axi_aresetn</obj_property>
+      <obj_property name="ObjectShortName">s_axi_aresetn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/enable" type="logic">
+      <obj_property name="ElementShortName">enable</obj_property>
+      <obj_property name="ObjectShortName">enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/set_src_pos" type="logic">
+      <obj_property name="ElementShortName">set_src_pos</obj_property>
+      <obj_property name="ObjectShortName">set_src_pos</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/sonar_src" type="array">
+      <obj_property name="ElementShortName">sonar_src[35:0]</obj_property>
+      <obj_property name="ObjectShortName">sonar_src[35:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/sonar_dst" type="array">
+      <obj_property name="ElementShortName">sonar_dst[35:0]</obj_property>
+      <obj_property name="ObjectShortName">sonar_dst[35:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/dst_z" type="array">
+      <obj_property name="ElementShortName">dst_z[11:0]</obj_property>
+      <obj_property name="ObjectShortName">dst_z[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/dst_y" type="array">
+      <obj_property name="ElementShortName">dst_y[11:0]</obj_property>
+      <obj_property name="ObjectShortName">dst_y[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/dst_x" type="array">
+      <obj_property name="ElementShortName">dst_x[11:0]</obj_property>
+      <obj_property name="ObjectShortName">dst_x[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/memory/inst/\native_mem_module.blk_mem_gen_v8_4_1_inst /memory" type="array">
+      <obj_property name="ElementShortName">memory[0:1023][31:0]</obj_property>
+      <obj_property name="ObjectShortName">memory[0:1023][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/nsonar_dbg" type="array">
+      <obj_property name="ElementShortName">nsonar_dbg[31:0]</obj_property>
+      <obj_property name="ObjectShortName">nsonar_dbg[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/dst_dbg_z" type="array">
+      <obj_property name="ElementShortName">dst_dbg_z[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dst_dbg_z[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/dst_dbg_y" type="array">
+      <obj_property name="ElementShortName">dst_dbg_y[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dst_dbg_y[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/dst_dbg_x" type="array">
+      <obj_property name="ElementShortName">dst_dbg_x[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dst_dbg_x[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/src_dbg_z" type="array">
+      <obj_property name="ElementShortName">src_dbg_z[31:0]</obj_property>
+      <obj_property name="ObjectShortName">src_dbg_z[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/src_dbg_y" type="array">
+      <obj_property name="ElementShortName">src_dbg_y[31:0]</obj_property>
+      <obj_property name="ObjectShortName">src_dbg_y[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/src_dbg_x" type="array">
+      <obj_property name="ElementShortName">src_dbg_x[31:0]</obj_property>
+      <obj_property name="ObjectShortName">src_dbg_x[31:0]</obj_property>
+   </wvobject>
+</wave_config>
